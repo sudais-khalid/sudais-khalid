@@ -17,13 +17,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sudaiskhalid.com-6d28d9?style=for-the-badge&logo=safari&logoColor=white)](https://sudaiskhalid.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338ca?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudais-khalid)
 [![Email](https://img.shields.io/badge/Email-Contact-4f46e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msudaiskhalid.ai@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadsudaiskhalid)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudais-khalid)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadsudaiskhalid&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/muhammadsudaiskhalid?style=for-the-badge&color=4338ca&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/muhammadsudaiskhalid?style=for-the-badge&color=4f46e5&label=STARS&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=sudais-khalid&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sudais-khalid?style=for-the-badge&color=4338ca&label=FOLLOWERS&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/sudais-khalid?style=for-the-badge&color=4f46e5&label=STARS&logo=github&logoColor=white)
 
 </div>
 
@@ -35,7 +35,7 @@ I am an AI and machine learning engineer in my 6th semester of a B.Sc. in Artifi
 
 I have hands-on experience building supervised and unsupervised ML pipelines, training CNNs and RNNs with TensorFlow and Keras, working with NLP tasks including text classification and speech feature extraction, and running the full data science workflow from raw data to evaluated output.
 
-I am a vibe coder who moves fast using AI-assisted development tools like Claude and GitHub Copilot to prototype, debug, and ship ideas quickly without losing code quality. I currently serve as **President of the AI Innovation Society** at STMU, where I run technical workshops and collaborative AI projects for fellow students.
+I am a vibe coder who moves fast using AI-assisted development tools like Claude and GitHub Copilot to prototype, debug, and ship ideas quickly without losing code quality.
 
 **Open To:**
 → ML Engineering Internships &nbsp;|&nbsp; AI Research Collaborations &nbsp;|&nbsp; Open Source Contributions &nbsp;|&nbsp; Freelance ML Projects
@@ -90,7 +90,7 @@ A full ML pipeline to classify human emotional state from raw audio files record
 | **Performance** | Model selected via stratified cross-validation across multiple classifiers |
 | **Security** | Handles real-environment noisy audio — not clean benchmark data |
 | **Impact** | Applicable to workplace wellness monitoring and human-computer interaction |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsudaiskhalid/Speech-Emotion-Analysis-for-Workplace-Wellness) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sudais-khalid/Speech-Emotion-Analysis-for-Workplace-Wellness) |
 
 Extracted MFCC, pitch, energy, and spectral features using librosa to form a rich feature vector per audio sample. Trained and compared multiple classifiers before selecting the best performer using stratified cross-validation against a noisy, real-world audio dataset.
 
@@ -112,7 +112,7 @@ A content-based recommendation engine using K-Nearest Neighbors and cosine simil
 | **Performance** | Improved accuracy through combined text-based and categorical feature representations |
 | **Security** | Reproducible pipeline with version-controlled preprocessing steps |
 | **Impact** | Personalised reading recommendations from lightweight, interpretable ML |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsudaiskhalid/book-recommendation-system) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sudais-khalid/book-recommendation-system) |
 
 Engineered a better feature space than raw metadata alone by combining text-based and categorical representations. Pre-processed and vectorised a large book dataset to enable fast and accurate similarity-based retrieval using KNN with cosine similarity.
 
@@ -134,7 +134,7 @@ Regression-based price prediction trained on a structured vehicle dataset, with 
 | **Performance** | Feature selection, outlier handling, and normalisation applied to push model metrics |
 | **Security** | Reproducible experiment configuration with clear preprocessing stages |
 | **Impact** | Demonstrates end-to-end supervised regression on real-world tabular data |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsudaiskhalid/Car-Price-Prediction-System) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sudais-khalid/Car-Price-Prediction-System) |
 
 Performed thorough exploratory data analysis to identify the strongest predictors before any modelling. Applied feature selection, outlier handling, and normalisation — demonstrating that clean, well-engineered features matter more than model complexity on structured data.
 
@@ -156,7 +156,7 @@ A time-series forecasting pipeline for stock price prediction using regression-b
 | **Performance** | Evaluated using MAE, RMSE, and R² — hyperparameter-tuned with cross-validation |
 | **Security** | Reproducible training with version-locked dependencies |
 | **Impact** | Applied time-series ML to financial forecasting with interpretable regression models |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsudaiskhalid) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sudais-khalid) |
 
 Applied lag feature engineering and rolling statistics to provide the model with meaningful temporal context. Tuned hyperparameters with cross-validation and evaluated performance using MAE, RMSE, and R² metrics against held-out financial time series.
 
@@ -178,7 +178,7 @@ A creative text-generation system using NLP techniques for open-ended narrative 
 | **Performance** | Produces coherent, contextually consistent story outputs |
 | **Security** | Prompt-driven architecture with controlled output boundaries |
 | **Impact** | Demonstrates applied generative AI and creative NLP engineering |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadsudaiskhalid) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repository-6d28d9?style=flat-square&logo=github&logoColor=white)](https://github.com/sudais-khalid) |
 
 Designed a prompt-driven architecture that produces coherent, genre-aware story outputs using NLP techniques. The system handles open-ended narrative creation while maintaining thematic consistency across generated text.
 
@@ -286,15 +286,15 @@ Developed supervised classification models in Python as part of real intern deli
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-muhammadsudaiskhalid-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/muhammadsudaiskhalid)
+[![LeetCode](https://img.shields.io/badge/LeetCode-muhammadsudaiskhalid-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sudais-khalid)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-muhammadsudaiskhalid-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadsudaiskhalid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-muhammadsudaiskhalid-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sudais-khalid)
 
 <br/>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-muhammadsudaiskhalid-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/muhammadsudaiskhalid)
+[![HackerRank](https://img.shields.io/badge/HackerRank-muhammadsudaiskhalid-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sudais-khalid)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-muhammadsudaiskhalid-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/muhammadsudaiskhalid)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-muhammadsudaiskhalid-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sudais-khalid)
 
 </div>
 
@@ -304,13 +304,13 @@ Developed supervised classification models in Python as part of real intern deli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadsudaiskhalid&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=4338ca&text_color=e2e8f0&ring_color=6d28d9&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sudais-khalid&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=4338ca&text_color=e2e8f0&ring_color=6d28d9&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=muhammadsudaiskhalid&theme=transparent&hide_border=true&background=0d1117&ring=7c3aed&fire=4f46e5&currStreakLabel=7c3aed&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="175" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=sudais-khalid&theme=transparent&hide_border=true&background=0d1117&ring=7c3aed&fire=4f46e5&currStreakLabel=7c3aed&sideLabels=e2e8f0&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="175" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsudaiskhalid&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0&langs_count=8&card_width=500" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudais-khalid&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e2e8f0&langs_count=8&card_width=500" height="165" alt="Top Languages"/>
 
 </div>
 
@@ -320,7 +320,7 @@ Developed supervised classification models in Python as part of real intern deli
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadsudaiskhalid&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sudais-khalid&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -330,7 +330,7 @@ Developed supervised classification models in Python as part of real intern deli
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadsudaiskhalid&bg_color=0d1117&color=7c3aed&line=4338ca&point=6d28d9&area=true&area_color=1e1b4b&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudais-khalid&bg_color=0d1117&color=7c3aed&line=4338ca&point=6d28d9&area=true&area_color=1e1b4b&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -341,9 +341,9 @@ Developed supervised classification models in Python as part of real intern deli
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsudaiskhalid/muhammadsudaiskhalid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsudaiskhalid/muhammadsudaiskhalid/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/muhammadsudaiskhalid/muhammadsudaiskhalid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudais-khalid/sudais-khalid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudais-khalid/sudais-khalid/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sudais-khalid/sudais-khalid/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -388,7 +388,7 @@ open_to:
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-muhammadsudaiskhalid-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadsudaiskhalid)
+[![GitHub](https://img.shields.io/badge/GitHub-sudais-khalid-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudais-khalid)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-sudaiskhalid.com-4338ca?style=for-the-badge&logo=safari&logoColor=white)](https://sudaiskhalid.com)
 
